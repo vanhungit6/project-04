@@ -411,7 +411,6 @@ button {
     display: block;
     width: 450px;
     margin: 0 auto;
-    /* object-fit: cover; */
 }
 
 .about__media-decor {
